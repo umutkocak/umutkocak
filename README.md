@@ -3,8 +3,6 @@
 
 My name is Umut KOÇAK. I live in Turkey.
 
-![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umutkocak&show_icons=true)
-
 ## Job
 
 I'm working as a Software Developer at [Setre](http://setre.com.tr)
