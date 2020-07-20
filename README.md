@@ -9,7 +9,7 @@ I'm working as a Software Developer at [Setre](http://setre.com.tr)
 
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="net core" style="margin: 2 2 2 2;" width="36" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" style="margin: 2 2 2 2;" width="36" height="36"/>   
+  <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="react" style="margin: 2 2 2 2;" width="36" height="36"/>   
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="react" style="margin: 2 2 2 2;" width="36" height="36"/>   
   <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="react" style="margin: 2 2 2 2;" width="36" height="36"/>   
       <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="devexpress" style="margin: 2 2 2 2;"  width="36" height="36"/>
