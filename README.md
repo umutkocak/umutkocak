@@ -1,5 +1,7 @@
 ### <h1 align="center">Hi 👋, My name is Umut KOÇAK. </h1>
 
+<p align="center">A passionate full-stack developer from Istanbul</p>
+
 
 ## Job
 
