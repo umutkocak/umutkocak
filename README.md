@@ -96,10 +96,5 @@ A passionate full-stack developer from Istanbul
 ![Profile views counter](https://komarev.com/ghpvc/?username=umutkocak&&style=flat-square)  
   
 
-<br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
