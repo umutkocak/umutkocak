@@ -27,19 +27,6 @@ A passionate full-stack developer from Istanbul
 <br/>  
 
 
-## Rapidfire  
-- 🔭 I’m currently working on [Viva e-Commerce](https://github.com/umutkocak/viva)  
-  
-
-- 🌱 I’m currently learning Redis and Elasticsearch!  
-  
-
-- ❓ Ask me about anything related to .NET and related technologies  
-  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
       
