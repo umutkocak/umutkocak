@@ -76,16 +76,11 @@ A passionate full-stack developer from Istanbul
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=umutkocak&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://github-readme-stats.vercel.app/api?username=umutkocak&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutkocak&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+---
+[![](https://visitcount.itsvg.in/api?id=umutkocak&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <br/>  
 
