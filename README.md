@@ -23,7 +23,7 @@
 
 ```javascript
 const umutKocak = {
-    title: "Senior Software Developer",
+    title: "Software Executive",
     location: "Istanbul, Turkey 🇹🇷",
     specialties: ["Full Stack Development", "Cloud Architecture", "AI Integration"],
     currentFocus: "Building AI-powered applications and exploring generative AI",
